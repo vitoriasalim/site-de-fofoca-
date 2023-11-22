@@ -1,0 +1,12 @@
+    body{
+        background: #FF00FF;
+    }
+    hl {
+        text-align: center;
+    }
+    p{
+        text-align: center;
+    }
+    em strong {
+        color:blue;
+    }
